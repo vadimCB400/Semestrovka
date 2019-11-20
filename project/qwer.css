@@ -1,0 +1,76 @@
+.li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.main_navbar {
+    margin-top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #2d2d2d;
+}
+
+.main_navbar li {
+    display: inline-block;
+    line-height: 50px;
+    font-size: 20px;
+    padding: 0 20px;
+}
+
+.main_navbar li a {
+    color: #F1F1F1;
+    display: block;
+    text-decoration: none;
+}
+
+.botoom_navbar {
+    width: 100%;
+    height: 40px;
+    background-color: #2d2d2d;
+}
+
+.botoom_navbar li {
+    float: left;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 30px;
+    padding: 0 20px;
+}
+
+.botoom_navbar li a {
+    color: #F1F1F1;
+    display: block;
+    text-decoration: none;
+}
+
+body h4 {
+    color: #F1F1F1;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+body h5 {
+    color: #F1F1F1;
+}
+
+body p {
+    margin-top: -20px;
+    color: #F1F1F1;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    background-color: #222222;
+    background: url("fon.jpg");
+}
+
+.recipe {
+    border-style: solid;
+    padding: 5px;
+    border-color: #555555;
+    margin-left: 40px;
+    width: 1200px;
+    height: 100%;
+    margin-top: 5px;
+}
